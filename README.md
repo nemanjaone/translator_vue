@@ -1,5 +1,9 @@
 # langvue
 
+## LANG-VUE
+Work in progress language translator built on VueJS.
+
+
 ## Project setup
 ```
 npm install
